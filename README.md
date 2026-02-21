@@ -1,7 +1,7 @@
 # Marketing Budget Optimization using Linear & Mixed-Integer Programming
 
 ##  Executive Summary
-This project optimizes the allocation of a $10,000,000 marketing budget across 10 different ad platforms (e.g., Print, TV, SEO, AdWords, Facebook). Using **Gurobi** and Python, we modeled complex, real-world marketing constraints—including diminishing returns, platform spending caps, and minimum investment thresholds—to move budget allocation away from "gut-feel" decisions to mathematically guaranteed optimal returns. 
+This project optimizes the allocation of a $10,000,000 marketing budget across 10 different ad platforms (e.g., Print, TV, SEO, AdWords, Facebook). Using **Gurobi** and Python, we modeled complex, real-world marketing constraints including diminishing returns, platform spending caps, and minimum investment thresholds to move budget allocation away from "gut-feel" decisions to mathematically guaranteed optimal returns. 
 
 **[Read the full 10-page Optimization Report here](reports/Group_13_report.pdf)** *(Link assumes you place the PDF in a `reports/` folder)*
 
